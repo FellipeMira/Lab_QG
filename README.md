@@ -8,8 +8,8 @@
 
 ### Alunos: Fellipe Mira Chaves e Tales A. Godoi
 
-*LAB 1: Volumetria e titulação
+* LAB 1: Volumetria e titulação
 
-*LAB 2: Separação de misturas
+* LAB 2: Separação de misturas
 
-*LAB 3:
+* LAB 3:
