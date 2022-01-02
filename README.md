@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/FellipeMira/Lab_QG/blob/main/lab_1/Captura%20de%20tela%202022-01-02%20154117.png)
 
-#ICT UNESP São José dos Campos
+## ICT UNESP São José dos Campos
 
 Prof. Dr. Gabriela Hurtado
 
