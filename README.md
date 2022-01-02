@@ -4,9 +4,9 @@
 
 ## ICT UNESP São José dos Campos
 
-Prof. Dr. Gabriela Hurtado
+### Prof. Dr. Gabriela Hurtado
 
-Alunos: Fellipe Mira Chaves e Tales A. Godoi
+### Alunos: Fellipe Mira Chaves e Tales A. Godoi
 
 LAB 1: Volumetria e titulação
 
