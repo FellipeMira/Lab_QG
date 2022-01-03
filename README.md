@@ -11,5 +11,5 @@
 * LAB 1: Volumetria e titulação
 
 * LAB 2: Separação de misturas
-![alt text](https://github.com/FellipeMira/Lab_QG/blob/main/lab_2/plot3.png)
+
 * LAB 3:
