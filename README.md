@@ -12,4 +12,6 @@
 
 * LAB 2: Separação de misturas
 
-* LAB 3:
+* LAB 3: Cromatografia
+
+* LAB 4: Reações 
